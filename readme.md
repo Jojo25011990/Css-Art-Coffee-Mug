@@ -11,6 +11,7 @@
 -   Semantic HTML5 markup
 -   SCSS - BEM
 -   Desktop-first workflow
+-   Vanilla Js
 
 # Author
 
