@@ -4,7 +4,7 @@
 
 # Screenshot
 
-![](./Screenshot-css-art-google.png)
+![](./Screenshot%20%20Coffee%20Mug.png)
 
 # Build with
 
